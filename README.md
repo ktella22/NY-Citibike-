@@ -1,4 +1,3 @@
-#bikesharing
 ## Overview of the Project
 The purpose of this project is to create the visualization and story analysis for New York City bike-sharing program and using the presentation analysis to propose a similar business plan in Des Moines to the investors. 
 
