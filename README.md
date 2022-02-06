@@ -2,6 +2,9 @@
 The purpose of this project is to create the visualization and story analysis for New York City bike-sharing program and using the presentation analysis to propose a similar business plan in Des Moines to the investors. 
 
 ## Results 
+
+Please go to the link to see the Tableau Public dashboard: [NYC Citi Bike Story Analysis](https://public.tableau.com/app/profile/kathy.nwe/viz/bikesharing_16441300959950/NYCBikeStoryAnalysis?publish=yes)
+
 The results of the analysis and presentation can be seen below: 
 
 <img width="513" alt="Top Ending Location" src="https://user-images.githubusercontent.com/92502292/152666907-676aa569-3083-48ca-9634-4d52ad346b27.PNG">
